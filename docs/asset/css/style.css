@@ -292,7 +292,7 @@ button:focus,
 /* RESPONSIVE  */
 /* ========  */
 
-@media (min-width: 768px){
+@media (min-width: 568px){
   .socmed{
     display: flex;
     flex-wrap: wrap;
@@ -384,7 +384,7 @@ button:focus,
 #languages Languages*/
 
 /*DESKTOP VERSION*/
-@media (min-width: 1024px){
+@media (min-width: 624px){
   .dst .esoc figure{
     width: auto;
     height: auto;
